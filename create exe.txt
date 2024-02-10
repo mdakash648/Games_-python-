@@ -1,1 +1,1 @@
-pyinstaller --onefile --windowed yourscriptname.py
+pyinstaller --onefile --windowed snake_game.py
